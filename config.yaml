@@ -174,4 +174,8 @@ menu:
           url: https://github.com/ClF3
           params:
               icon: brand-github
-
+        - identifier: bilibili
+          name: Bilibili
+          url: https://space.bilibili.com/432957407
+          params:
+              icon: brand-bilibili
