@@ -167,7 +167,7 @@ menu:
           weight: -100
           params:
             icon: home
-            newTab: true
+            newtab: false
     social:
         - identifier: github
           name: GitHub
