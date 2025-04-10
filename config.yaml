@@ -179,3 +179,8 @@ menu:
           url: https://space.bilibili.com/432957407
           params:
               icon: brand-bilibili
+        - identifier: run
+          name: Running Page
+          url: https://run.clf3.org
+          params:
+              icon: run
