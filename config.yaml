@@ -196,6 +196,6 @@ menu:
               icon: align-box-bottom-center
         - identifier: rss
           name: RSS
-          url: index.xml
+          url: /index.xml
           params:
               icon: rss
