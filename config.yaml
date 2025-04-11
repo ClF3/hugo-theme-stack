@@ -194,4 +194,8 @@ menu:
           url: https://status.clf3.org
           params:
               icon: align-box-bottom-center
-              newtab: true
+        - identifier: rss
+          name: RSS
+          url: index.xml
+          params:
+              icon: rss
