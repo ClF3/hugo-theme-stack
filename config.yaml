@@ -184,3 +184,14 @@ menu:
           url: https://run.clf3.org
           params:
               icon: run
+        - identifier: mail
+          name: Mail
+          url: mailto:clf3@clf3.org
+          params:
+              icon: mail
+        - identifier: status
+          name: Status
+          url: https://status.clf3.org
+          params:
+              icon: align-box-bottom-center
+              newtab: true
